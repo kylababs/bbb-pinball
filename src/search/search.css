@@ -1,0 +1,13 @@
+.manual-search, .auto-search {
+  margin: 10px;
+}
+
+/* Disable stepper buttons for lat/long input fields */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance:  none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance:  textfield;
+}

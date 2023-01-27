@@ -1,0 +1,16 @@
+.result-tile {
+  width: 240px;
+  border: 1px solid white;
+  padding: 5px;
+  margin: 3px;
+}
+
+.tile-label {
+  font-weight: bold;
+}
+
+.results-list {
+	display: flex;
+	width: 520px;
+	flex-wrap: wrap;
+}

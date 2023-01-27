@@ -1,0 +1,19 @@
+.app-header {
+  text-align: center;
+  max-width: 70%;
+  font-size: 25px;
+}
+
+.app {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 15px;
+  color: white;
+}
+
+.loading-text {
+  font-size: 20px;
+}
